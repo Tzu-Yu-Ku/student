@@ -1,4 +1,2 @@
 # student
-A tutorial exercise
-
-a practice of spring boot
+A practice of spring boot web application
